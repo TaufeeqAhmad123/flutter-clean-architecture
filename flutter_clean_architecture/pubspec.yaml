@@ -44,12 +44,17 @@ dependencies:
   retrofit: ^4.9.2
   dio: ^5.9.1
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
   floor_generator: ^1.5.0
   build_runner: ^2.4.6
-  retrofit_generator: ^8.2.1
+  retrofit_generator: ^7.0.8
+
+
+
+
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
